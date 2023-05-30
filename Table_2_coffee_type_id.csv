@@ -1,0 +1,13 @@
+coffee_id,Trait,Samples size,Number of SNPs,ncase,ncontrol,population,author,"	Consortium"
+ukb-b-4051,added milk to instant coffee,"64,949","9,851,867",NA,NA,European,Ben Elsworth,MRC-IEU
+ukb-b-930,Instant coffee intake,"64,949","9,851,867",NA,NA,European,Ben Elsworth,MRC-IEU
+ukb-d-1508_2,Instant coffee,"283,449","	13,584,120","158,386","125,063",European,neale lab,NA
+ukb-b-1338,Intake of artificial sweetener added to coffee,"64,949","9,851,867",NA,NA,European,Ben Elsworth,MRC-IEU
+ukb-b-5332,added milk to filtered coffee,64949,"9,851,867",NA,NA,European,Ben Elsworth,MRC-IEU
+ukb-b-243,Intake of sugar added to coffee,"64,949","9,851,867",NA,NA,European,Ben Elsworth,MRC-IEU
+ukb-b-12558,Decaffeinated coffee,"64,949","9,851,867",NA,NA,European,Ben Elsworth,MRC-IEU
+ukb-b-748,Filtered coffee intake,"64,949","9,851,867",NA,NA,European,Ben Elsworth,MRC-IEU
+ukb-b-12670,Other coffee type,"64,949","9,851,867",NA,NA,European,Ben Elsworth,MRC-IEU
+ukb-d-1508_1,decaffeinated,"283,449","	13,584,120","55,310","228,139",European,neale lab,NA
+ukb-d-1508_3,ground coffee,"283,449","	13,584,120","64,963","218,487",European,neale lab,NA
+ukb-d-1508_4,other type,"283,449","11,965,520","4,791","	278,658",European,neale lab,NA
